@@ -4,6 +4,6 @@ public class Person {
     final String country = "Indonesia";
 
     void sayHello(String name) {
-        System.out.println("Hello  " + name + ", My Name Is " + this.name);
+        System.out.println("Hello " + name + ", My Name Is " + this.name);
     }
 }
