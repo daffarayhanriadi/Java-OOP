@@ -1,5 +1,5 @@
 # Tutorial-Java-OOP-PZN
-##Person
+## Person
 Membuat Class 
 * Untuk membuat class, kita bisa menggunakan kata kunci class
 * Penamaan class biasa menggunakan format CamelCase
