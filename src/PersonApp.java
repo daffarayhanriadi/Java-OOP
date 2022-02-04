@@ -12,11 +12,10 @@ public class PersonApp {
 
         person1.sayHello("Budi");
 
-        Person person2 = new Person("Budi", "Jakarta"); // cara 2 membuat object
+        Person person2 = new Person("Budi"); // cara 2 membuat object
         Person person3; // cara 3 membuat object
-        person3 = new Person("Joko", "Cirebon");
-//        person3.name = "Joko"; // Sehingga bisa di handle dengan ini (kondisi di bawah)
+        person3 = new Person();
+        person3.name = "Joko"; // Sehingga bisa di handle dengan ini (kondisi di bawah)
         person3.sayHello("Budi"); // Null karena tipe data yang ada di dalam object belum dideklarasikan
-    }
     }
 }
