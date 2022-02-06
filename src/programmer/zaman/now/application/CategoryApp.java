@@ -10,7 +10,7 @@ public class CategoryApp {
         category.setId(null);
 
         System.out.println(category.getId());
-        
+
 //        System.out.println(category.getId());
 //        System.out.println(category.isExpensive());
 
