@@ -1,2 +1,6 @@
 # Tutorial-Java-OOP-PZN
-Tutorial Java Object Oriented Programming by PZN
+## Abstract Method
+* Saat kita membuat `class yang abstract`, kita bisa membuat `abstract method` juga `di dalam class abstract` tersebut.
+* Saat kita membuat sebuah `abstract method`, kita `tidak boleh membuat block method` untuk method tersebut.
+* Artinya, `abstract method wajib di override` di `class Child`.
+* Abstract method tidak boleh memiliki access modifier `private`.
