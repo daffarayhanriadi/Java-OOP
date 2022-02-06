@@ -6,7 +6,7 @@ import daffa.belajarjava.data.Car;
 public class CarApp {
     public static void main(String[] args) {
 
-//        Car cars = new Car(); // ERROR -> karena class Abstract
+//        Car cars = new Car(); // ERROR -> karena Car merupakan class Abstract
 
         Car car = new Avanza();
         System.out.println(car.getTire());
