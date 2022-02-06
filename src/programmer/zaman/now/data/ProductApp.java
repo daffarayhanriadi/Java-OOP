@@ -1,6 +1,6 @@
 package programmer.zaman.now.data;
 
-public class ProducApp {
+public class ProductApp {
     public static void main(String[] args) {
 
         Product product = new Product("Mac Book Pro", 30_000_000);
