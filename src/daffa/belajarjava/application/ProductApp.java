@@ -10,6 +10,7 @@ public class ProductApp {
         System.out.println(product.name);
         System.out.println(product.price);
 
+        // tampilan object product akan lebih mudah dimengerti ketika kita mengoverride method toString() dan mengedit isi nya.
         System.out.println(product);
 
     }
