@@ -1,4 +1,12 @@
 # Tutorial-Java-OOP-PZN
+## Jenis Exception
+Secara garis besar, di Java, exception dibagi menjadi 3 jenis :
+* Checked Exception, yaitu exception yang wajib di try catch, seperti yang sudah kita bahas sebelumnya.
+* Runtime Exception, dan
+* Error (yang akan kita bahas di materi selanjutnya)
+
+---
+
 ## Exception 
 * Saat kita membuat aplikasi, kita tidak akan terhindar dengan yang namanya error.
 * Di Java, error direpresentasikan dengan istilah exception, dan semua direpresentasikan dalam bentuk class Exception.
