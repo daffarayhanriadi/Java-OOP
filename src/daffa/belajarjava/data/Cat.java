@@ -1,5 +1,8 @@
 package daffa.belajarjava.data;
 
-public class Cat  {
-    String name;
+public class Cat extends Animal{
+    @Override
+    public void run() {
+        System.out.println("Cat "+name+" is running");
+    }
 }

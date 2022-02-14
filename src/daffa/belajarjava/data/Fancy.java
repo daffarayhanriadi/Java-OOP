@@ -1,4 +1,4 @@
-package daffa.belajarjava.application;
+package daffa.belajarjava.data;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
