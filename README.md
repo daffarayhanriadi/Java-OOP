@@ -15,7 +15,7 @@ Tutorial Java Object Oriented Programming by PZN
 12. [super Constructor](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/superConstructor)
 13. [Object Class](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/objectClass)
 14. [Polymorphism](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/polymorphism)
-15. [Type Check dan Cast](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/typeCheck&Cast)
+15. [Type Check dan Cast](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/typeCheck%26Cast)
 16. [Variable Hiding](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/variableHiding)
 17. [Package](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/package)
 18. [Access Modifier](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/accessModifier)
