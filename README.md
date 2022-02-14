@@ -27,7 +27,7 @@ Tutorial Java Object Oriented Programming by PZN
 24. [Interface Inheritance](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/interfaceInheritance)
 25. [Default Method](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/defaultMethod)
 26. [toString() Method](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/toString()Method)
-27. [equals() Method](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/equals()Method)
+27. [equals() Method](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/equal()Method)
 28. [hashCode() Method](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/hashCode()Method)
 29. [Final Class](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/finalClass)
 30. [Final Method](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/finalMethod)
