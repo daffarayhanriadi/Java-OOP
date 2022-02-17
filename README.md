@@ -1,5 +1,4 @@
-# Tutorial-Java-OOP-PZN
-Tutorial Java Object Oriented Programming by PZN
+# Java-Object-Oriented-Programming
 
 * [Pengenalan Object Oriented Programming](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir/learn/lecture/24071106#overview)
 
