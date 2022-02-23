@@ -44,3 +44,5 @@
 40. [Try With Resource](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/tryWithResource)
 41. [Annotation](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/annotation)
 42. [Reflection](https://github.com/Daffarr/Tutorial-Java-OOP-PZN/tree/reflection)
+
+Selanjutnya Materi [Java Standard Classes](https://github.com/Daffarr/Java-Standar-Classes)
